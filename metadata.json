@@ -1,0 +1,7 @@
+{
+  "name": "DocProtocol - Gestão de Protocolos",
+  "description": "Uma plataforma profissional para criação, acompanhamento e gestão de protocolos de documentos, inspirada no sistema Max365.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
